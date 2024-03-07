@@ -2,6 +2,7 @@
 <head>
 <title>Rock Paper Scissors!!!</title>																																																						<html>
 </head>
+<h1> This game is developed by Soundarya </h1> 
 
    <body>
 
