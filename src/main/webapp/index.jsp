@@ -2,7 +2,8 @@
 <head>
 <title>Rock Paper Scissors!!!</title>																																																						<html>
 </head>
-<h1> This game is developed by Soundarya </h1> 
+<h1> This game is developed by Soundarya </h1>
+ <h2> This game is succesfully developed </h2>
 <h3> Thank you for your business!!!</h3>
 
    <body>
